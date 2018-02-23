@@ -73,17 +73,3 @@ Run functional and unit tests:
     $ python tests.py
 
 
-============
-Contribution
-============
-
-Do you have python/flask experience? Help the app to follow python and flask best practices.
-
-Please send your pull requests in the ``master`` branch.
-Always prepend your commits with framework name:
-
-.. code-block:: bash
-
-    Flask: Implemented sign in functionality
-
-Read `contribution guide <https://github.com/komarserjio/notejam/blob/master/contribute.rst>`_ for details.
