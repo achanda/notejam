@@ -7,6 +7,7 @@ from flask.ext.mail import Mail
 app = Flask(__name__)
 app.config.from_object('notejam.config.Config')
 db = SQLAlchemy(app)
+db.create_all()
 
 login_manager = LoginManager()
 login_manager.login_view = "signin"
