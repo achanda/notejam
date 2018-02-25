@@ -8,5 +8,4 @@ WORKDIR /app
 RUN pip install --upgrade pip wheel
 RUN pip install -r requirements.txt
 EXPOSE 80
-RUN chmod +x start.sh
-CMD ["./start.sh"]
+CMD ["/bin/bash", "-c", "chmod +x start.sh && ./start.sh"]
