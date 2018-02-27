@@ -79,12 +79,6 @@ Notes are grouped in pads.
     :align: center
     :target: https://github.com/komarserjio/notejam/tree/master/screenshots.rst
 
-.. image:: https://github.com/komarserjio/notejam/blob/master/html/screenshots/3p.png
-    :alt: New note
-    :width: 400
-    :align: center
-    :target: https://github.com/komarserjio/notejam/tree/master/screenshots.rst
-
 See `more screenshots <https://github.com/komarserjio/notejam/tree/master/screenshots.rst>`_
 for look and feel.
 
